@@ -1,0 +1,11 @@
+D:\Visual Studio 2019\CSharpNewFeature\CSharpNewFeature\bin\Debug\netcoreapp3.1\CSharpNewFeature.exe
+D:\Visual Studio 2019\CSharpNewFeature\CSharpNewFeature\bin\Debug\netcoreapp3.1\CSharpNewFeature.deps.json
+D:\Visual Studio 2019\CSharpNewFeature\CSharpNewFeature\bin\Debug\netcoreapp3.1\CSharpNewFeature.runtimeconfig.json
+D:\Visual Studio 2019\CSharpNewFeature\CSharpNewFeature\bin\Debug\netcoreapp3.1\CSharpNewFeature.runtimeconfig.dev.json
+D:\Visual Studio 2019\CSharpNewFeature\CSharpNewFeature\bin\Debug\netcoreapp3.1\CSharpNewFeature.dll
+D:\Visual Studio 2019\CSharpNewFeature\CSharpNewFeature\bin\Debug\netcoreapp3.1\CSharpNewFeature.pdb
+D:\Visual Studio 2019\CSharpNewFeature\CSharpNewFeature\obj\Debug\netcoreapp3.1\CSharpNewFeature.csprojAssemblyReference.cache
+D:\Visual Studio 2019\CSharpNewFeature\CSharpNewFeature\obj\Debug\netcoreapp3.1\CSharpNewFeature.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\CSharpNewFeature\CSharpNewFeature\obj\Debug\netcoreapp3.1\CSharpNewFeature.AssemblyInfo.cs
+D:\Visual Studio 2019\CSharpNewFeature\CSharpNewFeature\obj\Debug\netcoreapp3.1\CSharpNewFeature.dll
+D:\Visual Studio 2019\CSharpNewFeature\CSharpNewFeature\obj\Debug\netcoreapp3.1\CSharpNewFeature.pdb
